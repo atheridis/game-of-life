@@ -1,0 +1,22 @@
+{
+  "settings": {
+    "resolution": [
+      1600,
+      900
+    ],
+    "cell_width": 15,
+    "colour": {
+      "dead": [
+        0,
+        0,
+        0
+      ],
+      "alive": [
+        0,
+        255,
+        255
+      ]
+    },
+    "frame_limit": 75
+  }
+}
