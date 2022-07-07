@@ -38,8 +38,10 @@ If a state is already saved in one of those keys it will be overwritten **withou
 
 ### Keybindings
 
+* Use left click to draw or erase cells
 * Use the Up and Down arrow keys to speed up or slow down the game respectively.
 * Use the Spacebar to pause and resume the game
+* Hold [Shift] while left clicking to draw or erase a straight line
 * Press [c] to clear the board
 * Press [r] to randomize the board
 * Press [ESC] to quit.
